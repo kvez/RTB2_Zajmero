@@ -6,6 +6,8 @@ elvégzi a zajanalízist: ASD spektrum, integrált RMS zaj, spur detekció.
 
 ![ADR1399 10 V referencia zajmérés](ADR1399_10V.png)
 
+![Program képernyőkép](pictures.PNG)
+
 ## Mérési módok
 
 A program három különböző jelöléssel tud mérést indítani, amelyek együtt teljes
